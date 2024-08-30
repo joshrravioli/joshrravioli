@@ -1,4 +1,3 @@
-### Hi, I'm Josh. 👋 A BSIT student at Bulacan State University @ Meneses.
 <!--
 **joshrravioli/joshrravioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
